@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.9b767914.css",
+    "main.js": "/reactwebsite/static/js/main.c87c57e6.js",
+    "static/media/about.gif": "/reactwebsite/static/media/about.548e0f46e30b2a8f7ae6.gif",
+    "static/media/home.gif": "/reactwebsite/static/media/home.d541c86fec95ed41bed0.gif",
+    "static/media/marketing.jpg": "/reactwebsite/static/media/marketing.e74801284d17cf4e6f92.jpg",
+    "static/media/flutter.jpg": "/reactwebsite/static/media/flutter.fdb25746874c25be6b0c.jpg",
+    "static/media/teach.jpg": "/reactwebsite/static/media/teach.99b61e75a36e12ac14a9.jpg",
+    "static/media/social.jpg": "/reactwebsite/static/media/social.88017cc4f20a805b3dcd.jpg",
+    "static/media/dev.jpg": "/reactwebsite/static/media/dev.3d0c14f4bc48f47aec14.jpg",
+    "static/media/android.webp": "/reactwebsite/static/media/android.873fc5dde2880a431eca.webp",
+    "static/media/web.webp": "/reactwebsite/static/media/web.379b0919188b0f5b36f4.webp",
+    "index.html": "/reactwebsite/index.html",
+    "main.9b767914.css.map": "/reactwebsite/static/css/main.9b767914.css.map",
+    "main.c87c57e6.js.map": "/reactwebsite/static/js/main.c87c57e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b767914.css",
+    "static/js/main.c87c57e6.js"
+  ]
+}
